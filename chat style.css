@@ -1,0 +1,32 @@
+body{
+
+    background: #c2e59c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+
+}
+.search{
+    font-family:monospace;
+    font:bold;
+    border:2 px solid black;
+    font-size:12;
+    height: 41px;
+    width: 86%;
+    text-align:center;
+}
+.container{
+    width: 23%;
+    margin: auto;
+    padding:5px 3px;
+}
+#btn{
+    margin: 5px 30px;
+    width: 50%;
+    border-radius: 5px;
+    height: 34px;
+    background:rgb(186, 245, 98);
+    color:white;
+    opacity:21px;
+}
